@@ -27,9 +27,9 @@ import pprint
 
 from googleapiclient.discovery import build
 
-
-your_develop_key='AIzaSyAU16B4PgkGiWqjYoOhf_Ivrmraq1BHewc'
-your_engine_cx='018214101939968336169:v-zdgnyjwo8'
+#Pls set this before running the code. See README.md for help.
+your_develop_key=
+your_engine_cx=
 
 def main():
     # Build a service object for interacting with the API. Visit
